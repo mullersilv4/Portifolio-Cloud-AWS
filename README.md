@@ -32,5 +32,5 @@ Aqui você encontrará exemplos práticos de arquiteturas, automações e soluç
 - **Objetivo:** Melhorar a confiabilidade de um site migrando para um site estático com S3
 - **Serviços Utilizados:** S3  
 - **Diagrama da Arquitetura:**  
-  ![diagrama](link-da-imagem.png)  
+  ![diagrama](https://github.com/user-attachments/assets/dd4f5266-4840-4d98-b430-846f92bacfd3)  
 - [🔗 Repositório](https://github.com/seu-usuario/projeto-s3)
