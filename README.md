@@ -31,4 +31,4 @@ Aqui você encontrará exemplos práticos de arquiteturas, automações e soluç
 ### 📌 1. Site Estático com S3 
 - **Objetivo:** Melhorar a confiabilidade de um site migrando para um site estático com S3
 - **Serviços Utilizados:** S3  
-- [🔗 Repositório](Projeto01-Hospedagem-de-Site-Estatico-no-Amazon-S3)
+- [🔗 Repositório](https://github.com/mullersilv4/Projeto01-Hospedagem-de-Site-Estatico-no-Amazon-S3/blob/main/README.md)
