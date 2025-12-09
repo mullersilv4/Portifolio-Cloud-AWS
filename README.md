@@ -25,7 +25,7 @@ Aqui você encontrará exemplos práticos de arquiteturas, automações e soluç
 
 ---
 
-## 🚀 Alguns Projetos Executados durante a Trilha do Amazon SkillBuilder
+## 🚀 Alguns Projetos Executados durante a aprendizagem em Cloud AWS
 
 ### 📌 1. Site Estático com S3 
 - **Objetivo:** Melhorar a confiabilidade de um site migrando para um site estático com S3
